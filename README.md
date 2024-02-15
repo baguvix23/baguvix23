@@ -8,11 +8,7 @@ Aspiring developer looking for continuous improvements in my learning flow, buil
 
 ## Skills
 
-- Basic knowledge in rust, building small console applications.
-- Docker basic skills
 - Critical thinking, decision making and problem solving skills.
-- Some coding in Python, Javascript, Go.
-- Special skills and experience in fast knowledge.
 
 ## Contact.
 
