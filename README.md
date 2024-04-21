@@ -12,4 +12,4 @@ Aspiring developer looking for continuous improvements in my learning flow, buil
 
 ## Contact.
 
-You can find me on my website and resume on my [website](https://github.com)
+You can find me on my website and resume on my [website](https://v2-portfolio-nine.vercel.app/)
